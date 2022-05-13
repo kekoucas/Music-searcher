@@ -1,0 +1,22 @@
+body{
+    background-color: gray;
+}
+#titulo{
+    display: flex;
+    justify-content: center;
+}
+#searcher{
+    display: flex;
+    margin: auto;
+    
+}
+#btn{
+    display: flex;
+    margin: auto;
+    margin-top: 5px;
+}
+#cards{
+    text-align: center;
+    margin-top: 54px;
+    border: 1px solid black;
+}
